@@ -1,0 +1,13 @@
+/home/codigo/workspace/program/target/release/deps/libthiserror_impl-3e6d242ce844de07.so: /home/codigo/.cargo/registry/src/github.com-1ecc6299db9ec823/thiserror-impl-1.0.58/src/lib.rs /home/codigo/.cargo/registry/src/github.com-1ecc6299db9ec823/thiserror-impl-1.0.58/src/ast.rs /home/codigo/.cargo/registry/src/github.com-1ecc6299db9ec823/thiserror-impl-1.0.58/src/attr.rs /home/codigo/.cargo/registry/src/github.com-1ecc6299db9ec823/thiserror-impl-1.0.58/src/expand.rs /home/codigo/.cargo/registry/src/github.com-1ecc6299db9ec823/thiserror-impl-1.0.58/src/fmt.rs /home/codigo/.cargo/registry/src/github.com-1ecc6299db9ec823/thiserror-impl-1.0.58/src/generics.rs /home/codigo/.cargo/registry/src/github.com-1ecc6299db9ec823/thiserror-impl-1.0.58/src/prop.rs /home/codigo/.cargo/registry/src/github.com-1ecc6299db9ec823/thiserror-impl-1.0.58/src/span.rs /home/codigo/.cargo/registry/src/github.com-1ecc6299db9ec823/thiserror-impl-1.0.58/src/valid.rs
+
+/home/codigo/workspace/program/target/release/deps/thiserror_impl-3e6d242ce844de07.d: /home/codigo/.cargo/registry/src/github.com-1ecc6299db9ec823/thiserror-impl-1.0.58/src/lib.rs /home/codigo/.cargo/registry/src/github.com-1ecc6299db9ec823/thiserror-impl-1.0.58/src/ast.rs /home/codigo/.cargo/registry/src/github.com-1ecc6299db9ec823/thiserror-impl-1.0.58/src/attr.rs /home/codigo/.cargo/registry/src/github.com-1ecc6299db9ec823/thiserror-impl-1.0.58/src/expand.rs /home/codigo/.cargo/registry/src/github.com-1ecc6299db9ec823/thiserror-impl-1.0.58/src/fmt.rs /home/codigo/.cargo/registry/src/github.com-1ecc6299db9ec823/thiserror-impl-1.0.58/src/generics.rs /home/codigo/.cargo/registry/src/github.com-1ecc6299db9ec823/thiserror-impl-1.0.58/src/prop.rs /home/codigo/.cargo/registry/src/github.com-1ecc6299db9ec823/thiserror-impl-1.0.58/src/span.rs /home/codigo/.cargo/registry/src/github.com-1ecc6299db9ec823/thiserror-impl-1.0.58/src/valid.rs
+
+/home/codigo/.cargo/registry/src/github.com-1ecc6299db9ec823/thiserror-impl-1.0.58/src/lib.rs:
+/home/codigo/.cargo/registry/src/github.com-1ecc6299db9ec823/thiserror-impl-1.0.58/src/ast.rs:
+/home/codigo/.cargo/registry/src/github.com-1ecc6299db9ec823/thiserror-impl-1.0.58/src/attr.rs:
+/home/codigo/.cargo/registry/src/github.com-1ecc6299db9ec823/thiserror-impl-1.0.58/src/expand.rs:
+/home/codigo/.cargo/registry/src/github.com-1ecc6299db9ec823/thiserror-impl-1.0.58/src/fmt.rs:
+/home/codigo/.cargo/registry/src/github.com-1ecc6299db9ec823/thiserror-impl-1.0.58/src/generics.rs:
+/home/codigo/.cargo/registry/src/github.com-1ecc6299db9ec823/thiserror-impl-1.0.58/src/prop.rs:
+/home/codigo/.cargo/registry/src/github.com-1ecc6299db9ec823/thiserror-impl-1.0.58/src/span.rs:
+/home/codigo/.cargo/registry/src/github.com-1ecc6299db9ec823/thiserror-impl-1.0.58/src/valid.rs:
